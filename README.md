@@ -1,2 +1,2 @@
-# snowflake
-Snowflake Code Snippets
+# Snowflake
+Snowflake Features - Code Snippets
